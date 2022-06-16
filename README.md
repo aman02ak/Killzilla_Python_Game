@@ -12,4 +12,4 @@ Killzilla is a simple single player game project developed in Python in 2-Diment
 In this game the player is having some health, which will get reduce by a point as penalty if player got hit by enemy or touch the boundary of the screen. Similary if the player has successfully killed more 10 enemies, he'll be rewarded with a health point.
 There is a fixed time at which the game ends, and player can score the maximum score in that time bound.
 
-                                                                                                              - Author : Aman Kumar
+                                                                                     - Author : Aman Kumar
